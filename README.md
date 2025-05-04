@@ -42,7 +42,7 @@ Charles Darwin University (Darwin, NT) • Jul 2023 – Jun 2025 (expected)
 
 - **Lightweight Attention Mechanism for Mango Disease Recognition**  
   Thesis project applying a custom attention module to classify and detect mango leaf diseases in Northern Territory.  
-  🔗 [GitHub Repo](https://github.com/hexsujan0264/mango-disease-recognition)
+  🔗 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/hexsujan0264/mango-disease-recognition)
 
 - **Graph Database Solutions (Oyster Bar Darwin)**  
   Migrated a relational database to Neo4j; designed ETL pipelines for querying complex customer-order relationships.  
@@ -50,7 +50,8 @@ Charles Darwin University (Darwin, NT) • Jul 2023 – Jun 2025 (expected)
 
 - **eLearning Application**  
   Developed a secure online learning platform with cookie-based auth, AWS SES/S3 integration, Stripe payments, and role-based access.  
-  🔗 [GitHub Repo](https://github.com/hexsujan0264/elearning-platform)
+  🔗 [![View E-learning App](https://img.shields.io/badge/View%20E-learning%20App-GitHub-black?style=for-the-badge&logo=github)](https://github.com/hexsujan0264/E-learning-App-eduNepal-)
+
 
 ---
 
@@ -76,8 +77,7 @@ Charles Darwin University (Darwin, NT) • Jul 2023 – Jun 2025 (expected)
 
 ---
 
-## 📫 Connect
-
-- 📧 sujan0264@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/sujan-chaudhary/)  
-- [GitHub](https://github.com/hexsujan0264)  
+## 🔗 Connect with Me
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sujan0264@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujan-chaudhary/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/hexsujan0264) 
