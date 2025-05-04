@@ -7,8 +7,10 @@
 ---
 
 ## 🌟 About Me
-I’m a data science graduate student passionate about transforming complex datasets into actionable insights. I thrive on collaborating in data analysis, predictive modeling, and business intelligence projects—and never miss a chance to test my skills in hackathons and innovation competitions.
-
+I’m an aspiring data analyst looking for an entry-level role where I can use my technical and analytical skills to manage
+and interpret raw data into actionable insights that drive smarter decisions. With hands-on experience in SQL, Power
+BI, Python, technical support, software engineering, and database management, I bring technical depth and a problem-solving mindset. I’m especially passionate about using data science to solve complex, real-world challenges and make
+a positive impact
 ---
 
 ## 🛠️ Skills
