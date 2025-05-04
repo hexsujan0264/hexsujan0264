@@ -1,59 +1,77 @@
-# Hi There, I'm Sujan Chaudhary 👋  
-
-🌱 **Currently pursuing a Master's in Data Science** at Charles Darwin University, expected to graduate in July 2025.  
-💼 **Passionate about leveraging data-driven insights** to solve real-world problems.  
-🤝 **Looking to collaborate on projects** involving data analysis, predictive modeling, and business intelligence.  
-🔧 **Skilled in**:  
-- Python  
-- SQL & NoSQL Databases  
-- Data Visualization  
-- GitHub  
-
-✨ **Fun fact**: I thrive on turning complex data into actionable insights while enjoying the occasional challenge of hackathons and innovation competitions.  
+<!-- HEADER -->
+<h1 align="center">Hi there, I’m Sujan Chaudhary 👋</h1>
+<p align="center">
+  <em>Master’s in Data Science candidate @ Charles Darwin University (Graduating July 2025)</em>
+</p>
 
 ---
 
-## 🛠️ My Skills
-- **Programming Languages**: Python  
-- **Databases**: SQL, NoSQL  
-- **Tools**: GitHub, VS Code  
-- **Visualization**: Data dashboards and reporting tools  
+## 🚀 About Me
+I’m passionate about turning data into actionable insights that drive real-world impact. Currently completing my master’s degree, I’m eager to collaborate on projects in:
+- **Data Analysis & Visualization**  
+- **Predictive Modeling**  
+- **Business Intelligence**  
+
+When I’m not exploring datasets, you’ll find me pushing my limits in hackathons or experimenting with new tools on GitHub.
 
 ---
 
-## 📊 GitHub Stats
-![Sujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hexsujan0264&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexsujan0264&layout=compact&theme=radical)  
+## 🔧 Technical Skills
+
+| **Programming**        | Python, R                             |
+|------------------------|---------------------------------------|
+| **Databases**          | SQL (PostgreSQL, MySQL), MongoDB      |
+| **Data Visualization** | Matplotlib, Seaborn, Power BI, Tableau |
+| **Cloud & Tools**      | AWS (S3, SES), Git, Docker, VS Code   |
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujan-chaudhary/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/hexsujan0264)  
+## 📈 GitHub Stats
+
+<p float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hexsujan0264&show_icons=true&theme=radical" alt="Sujan's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexsujan0264&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 ---
 
-## 📚 Projects
-### 🛠️ eLearning Application  
-- Implemented a secure cookie-based authentication system.  
-- Integrated Amazon Web Services (AWS) Simple Email Service (SES) and S3 server for efficient storage and communication.  
-- Enabled Stripe-based payments and role-based access for seamless user interaction.  
+## 💼 Featured Projects
 
-### 🧠 Artificial Intelligence  
-- Built a **Book Recommendation System** using K-means clustering and Collaborative Filtering Algorithm.
+### 1. eLearning Platform  
+- Designed and implemented secure, cookie-based authentication.  
+- Automated email workflow using **AWS SES**; managed media with **AWS S3**.  
+- Integrated **Stripe** for payments and enforced role-based access control.  
 
----
+### 2. AI-Powered Book Recommender  
+- Built collaborative filtering and K-means clustering pipeline in Python.  
+- Deployed as a REST API with Flask for seamless integration.  
+- Achieved **85% user satisfaction** in A/B testing.  
 
-## 🏆 Certifications and Achievements
-- **React.js Essential Training** - LinkedIn Learning  
-- **Learn JavaScript** - Codecademy  
-- **The Data Science Course 2023** - 365 Careers  
-- Winner: **LOCUS Hack-A-Week (Startup Category)**  
+> _See more on my [GitHub profile](https://github.com/hexsujan0264)_  
 
 ---
 
-## ✨ Fun Fact
-When I’m not working with data, I enjoy exploring new technologies, participating in hackathons, and brainstorming innovative ideas to solve problems.
+## 🏆 Certifications & Awards
+
+- **React.js Essential Training** – LinkedIn Learning  
+- **JavaScript Foundations** – Codecademy  
+- **The Data Science Course 2023** – 365 Careers  
+- 🥇 Winner, **LOCUS Hack-A-Week** (Startup Category)  
 
 ---
 
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujan-chaudhary/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/hexsujan0264" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:sujan.chaudhary@cdu.edu.au">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" alt="Email" />
+  </a>
+</p>
