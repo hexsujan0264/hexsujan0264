@@ -1,83 +1,72 @@
 <!-- HEADER -->
 <h1 align="center">Sujan Chaudhary</h1>
 <p align="center">
-  <em>Aspiring Data Analyst | Master’s in Data Science @ Charles Darwin University (Jun 2025)</em>
+  <em>Master’s in Data Science @ Charles Darwin University (Graduating July 2025)</em>
 </p>
 
 ---
 
-## 🔎 Summary
-I’m an entry-level data analyst passionate about turning raw data into actionable insights. With hands-on experience in SQL, Power BI, Python, and database management—plus a background in software engineering and technical support—I bring both technical depth and a problem-solving mindset to every challenge. I thrive on using data science to tackle complex, real-world problems and make a positive impact.
+## 🌟 About Me
+I’m a data science graduate student passionate about transforming complex datasets into actionable insights. I thrive on collaborating in data analysis, predictive modeling, and business intelligence projects—and never miss a chance to test my skills in hackathons and innovation competitions.
 
 ---
 
-## 💼 Experience
-
-**Full Stack Data Science Intern**  
-*My Homework Rewards (Ontario, Canada) • Mar 2025 – Present*  
-- Built a real-time data visualization app with interactive charts to accelerate decision-making.  
-- Streamlined database performance by wrangling and organizing data for efficient querying.  
-- Developed a personalized recommender system and user-friendly dashboard for key insights.
-
-**Software Engineer Intern**  
-*Aubot Pty. Ltd. (Melbourne, Australia) • Nov 2024 – Feb 2025*  
-- Debugged and optimized code to ensure high quality and performance.  
-- Identified, documented, and collaborated on bug fixes to enhance the LMS platform.  
-- Contributed feedback to improve automated testing processes.
-
-**Customer Service & Cook**  
-*Oyster Bar (Darwin, NT) • Jun 2023 – Present*  
-- Delivered exceptional customer service to ensure smooth dining experiences.  
-- Collaborated with kitchen and front-of-house teams under high-pressure conditions.
+## 🛠️ Skills
+- **Programming:** Python  
+- **Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)  
+- **Visualization:** Power BI, Matplotlib, Seaborn  
+- **Tools & Cloud:** Git & GitHub, VS Code, AWS (S3, SES)  
 
 ---
 
-## 🎓 Education
-
-**Master of Data Science**  
-Charles Darwin University (Darwin, NT) • Jul 2023 – Jun 2025 (expected)
----
-
-## 🛠️ Projects
-
-- **Lightweight Attention Mechanism for Mango Disease Recognition**  
-  Thesis project applying a custom attention module to classify and detect mango leaf diseases in Northern Territory.  
-  🔗 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github)](https://github.com/hexsujan0264/mango-disease-recognition)
-
-- **Graph Database Solutions (Oyster Bar Darwin)**  
-  Migrated a relational database to Neo4j; designed ETL pipelines for querying complex customer-order relationships.  
-  🔗 [GitHub Repo](https://github.com/hexsujan0264/oysterbar-graph-db)
-
-- **eLearning Application**  
-  Developed a secure online learning platform with cookie-based auth, AWS SES/S3 integration, Stripe payments, and role-based access.  
-  🔗 [![View E-learning App](https://img.shields.io/badge/View%20E-learning%20App-GitHub-black?style=for-the-badge&logo=github)](https://github.com/hexsujan0264/E-learning-App-eduNepal-)
-
-
----
-
-## 🔧 Technical Skills
-
-- **Languages**: Python, SQL, JavaScript  
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, React Native, Matplotlib, Seaborn  
-- **Databases**: MySQL, Neo4j, MongoDB  
-- **Visualization**: Power BI, Tableau  
-- **Cloud & Tools**: AWS (S3, SES), Git, Docker, VS Code  
-- **Other**: Data Wrangling, Predictive Analytics, Recommender Systems
-
----
-
-## 🏅 Certifications & Awards
-
-- The Data Science Course 2023 – 365 Careers  
-- Learn JavaScript – Codecademy  
-- React Native – Deerwalk Training Center  
-- 🥇 Winner, LOCUS Hack-A-Week (Startup Category)  
-- CDU Australian Workplace Experience (AWEsome) Program  
-- Graduate Employment Program Readiness Bootcamp, CDU Careers Centre
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hexsujan0264&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexsujan0264&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🔗 Connect with Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sujan0264@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujan-chaudhary/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/hexsujan0264) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujan-chaudhary/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&color=1877F2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hexsujan0264">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&color=1877F2" alt="GitHub" />
+  </a>
+  <a href="mailto:sujan0264@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&color=1877F2" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 📚 Projects
+
+### 🛠️ Lightweight Attention Mechanism for Mango Disease Recognition in Northern Territory
+- Developed a background-masked pipeline to isolate mango leaves in field images, boosting classification accuracy.  
+- Created a lightweight EfficientNetB0 + BAM model, achieving over 99% accuracy on diseases and pests, optimized for edge use.  
+- Applied Grad-CAM visualizations for explainability, ensuring the model focuses on actual diseased regions.  
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github&color=1877F2)](https://github.com/hexsujan0264/Mango-disease-detection-using-lightweight-AI-solutions)
+
+
+### 🛠️ eLearning Application  
+- Secure cookie-based authentication  
+- AWS SES & S3 integration for emails and storage  
+- Stripe payments & role-based access control  
+[![View eLearning App](https://img.shields.io/badge/View%20eLearning%20App-GitHub-black?style=for-the-badge&logo=github&color=1877F2)](https://github.com/hexsujan0264/E-learning-App-eduNepal-)
+
+### 🧠 Book Recommendation System  
+- K-means clustering + collaborative filtering pipeline  
+- Deployed as a Flask REST API  
+- Achieved 85% user satisfaction in A/B testing  
+[![View Recommender](https://img.shields.io/badge/View%20Recommender-GitHub-black?style=for-the-badge&logo=github&color=1877F2)](https://github.com/hexsujan0264/book-recommender-system)
+
+---
+
+## 🏆 Certifications & Awards
+- **React.js Essential Training** – LinkedIn Learning  
+- **Learn JavaScript** – Codecademy  
+- **The Data Science Course 2023** – 365 Careers  
+- 🥇 Winner, LOCUS Hack-A-Week (Startup Category)  
