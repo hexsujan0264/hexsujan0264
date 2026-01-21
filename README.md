@@ -1,5 +1,5 @@
 𝘏𝘪 𝘛𝘩𝘦𝘳𝘦, 𝘐𝘵’𝘴 𝘚𝘶𝘫𝘢𝘯 👋  
-𝘐’𝘮 an aspiring Data Analyst and Master’s student in Data Science at Charles Darwin University, passionate about turning raw data into actionable insights.  
+𝘐’𝘮 an Data Analyst/Network Engineer and Graduate in Data Science at Charles Darwin University, passionate about turning raw data into actionable insights.  
 
 𝘐’𝘮 experienced in building real-time dashboards, predictive models, and recommender systems to solve complex, real-world challenges.  
 
